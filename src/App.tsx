@@ -10,7 +10,6 @@ import About from './components/About.tsx';
 import Services from './components/Services.tsx';
 import WhyChooseUs from './components/WhyChooseUs.tsx';
 import Process from './components/Process.tsx';
-import Team from './components/Team.tsx';
 import Portfolio from './components/Portfolio.tsx';
 import Testimonials from './components/Testimonials.tsx';
 import FAQ from './components/FAQ.tsx';
@@ -55,10 +54,7 @@ export default function App() {
       {/* 6. Our Process Section */}
       <Process />
 
-      {/* 7. Meet Our Team Section */}
-      <Team />
-
-      {/* 8. Portfolio Showcase Section */}
+      {/* 7. Portfolio Showcase Section */}
       <Portfolio />
 
       {/* 9. Client Testimonials Section */}

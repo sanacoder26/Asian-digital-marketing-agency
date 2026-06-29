@@ -21,7 +21,7 @@ export default function Team() {
             Our Professionals
           </h2>
           <p className="font-display font-black text-4xl sm:text-5xl text-slate-900 dark:text-white tracking-tight">
-            Meet the Creative <span className="gradient-text">Minds at ADMA</span>
+            Meet Our Team
           </p>
           <div className="h-2 w-20 bg-gradient-to-r from-indigo-500 via-blue-500 to-purple-500 mx-auto rounded-full mt-4" />
         </div>

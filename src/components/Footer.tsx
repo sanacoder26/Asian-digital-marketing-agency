@@ -5,7 +5,8 @@
 
 import React from 'react';
 import Logo from './Logo.tsx';
-import { Facebook, Instagram, Linkedin, MessageSquare, ArrowUp } from 'lucide-react';
+import { Facebook, Instagram, Linkedin, ArrowUp } from 'lucide-react';
+import WhatsAppIcon from './WhatsAppIcon.tsx';
 
 export default function Footer() {
   const currentYear = new Date().getFullYear();
@@ -41,28 +42,28 @@ export default function Footer() {
             {/* Social Links */}
             <div className="flex items-center gap-3">
               <a
-                href="https://facebook.com"
+                href="https://www.facebook.com/asiandigitalmarketing"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="p-2.5 rounded-full bg-slate-900 hover:bg-indigo-650 text-slate-400 hover:text-white transition"
+                className="p-2.5 rounded-full bg-slate-900 hover:bg-indigo-600 text-slate-400 hover:text-white transition"
                 aria-label="Facebook Profile"
               >
-                <Facebook className="w-4 h-4 fill-current stroke-0" />
+                <Facebook className="w-4 h-4" />
               </a>
               <a
-                href="https://instagram.com"
+                href="https://www.instagram.com/asian_digital_agency"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="p-2.5 rounded-full bg-slate-900 hover:bg-indigo-650 text-slate-400 hover:text-white transition"
+                className="p-2.5 rounded-full bg-slate-900 hover:bg-indigo-600 text-slate-400 hover:text-white transition"
                 aria-label="Instagram Profile"
               >
                 <Instagram className="w-4 h-4" />
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/uzma-akbar"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="p-2.5 rounded-full bg-slate-900 hover:bg-indigo-650 text-slate-400 hover:text-white transition"
+                className="p-2.5 rounded-full bg-slate-900 hover:bg-indigo-600 text-slate-400 hover:text-white transition"
                 aria-label="LinkedIn Profile"
               >
                 <Linkedin className="w-4 h-4 fill-current stroke-0" />
@@ -71,10 +72,10 @@ export default function Footer() {
                 href="https://wa.me/923458903225"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="p-2.5 rounded-full bg-slate-900 hover:bg-indigo-650 text-slate-400 hover:text-white transition"
+                className="p-2.5 rounded-full bg-slate-900 hover:bg-indigo-600 text-slate-400 hover:text-white transition"
                 aria-label="WhatsApp Active Line"
               >
-                <MessageSquare className="w-4 h-4 fill-current stroke-0" />
+                <WhatsAppIcon className="w-4 h-4" />
               </a>
             </div>
           </div>

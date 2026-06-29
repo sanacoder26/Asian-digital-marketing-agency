@@ -192,7 +192,7 @@ export const PORTFOLIO_PROJECTS: PortfolioItem[] = [
     id: 'p-1',
     title: 'E-commerce Redefinition',
     category: 'Websites',
-    imageUrl: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=600&h=400',
+    imageUrl: 'https://images.unsplash.com/photo-1516321497487-e288fb19713f?auto=format&fit=crop&q=80&w=600&h=400',
     description: 'A headless e-commerce store with animated custom filter layouts and supercharged page loads.',
     tags: ['React', 'Tailwind', 'E-commerce']
   },
@@ -200,7 +200,7 @@ export const PORTFOLIO_PROJECTS: PortfolioItem[] = [
     id: 'p-2',
     title: 'Apex Financial Corporate Identity',
     category: 'Branding',
-    imageUrl: 'https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&q=80&w=600&h=400',
+    imageUrl: 'https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&q=80&w=600&h=400',
     description: 'Logo suite, metallic corporate cards, presentation decks, and full brand guideline manuals.',
     tags: ['Identity', 'Vector Guidelines', 'Logo Design']
   },
@@ -208,7 +208,7 @@ export const PORTFOLIO_PROJECTS: PortfolioItem[] = [
     id: 'p-3',
     title: 'AI Commercial for Zen Cars',
     category: 'AI Videos',
-    imageUrl: 'https://images.unsplash.com/photo-1536240478700-b869070f9279?auto=format&fit=crop&q=80&w=600&h=400',
+    imageUrl: 'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&q=80&w=600&h=400',
     description: 'Fully AI-generated product launch video featuring photorealistic car renders and synthetic voiceover.',
     tags: ['Sora Video API', 'AI Voiceover', 'Video Editing']
   },
@@ -216,7 +216,7 @@ export const PORTFOLIO_PROJECTS: PortfolioItem[] = [
     id: 'p-4',
     title: 'Instagram Expansion Drive',
     category: 'Social Media',
-    imageUrl: 'https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?auto=format&fit=crop&q=80&w=600&h=400',
+    imageUrl: 'https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&q=80&w=600&h=400',
     description: '60 scroll-stopping typographic carousels and reels yielding +240% user engagement metrics.',
     tags: ['Carousels', 'Figma Wireframes', 'Social Media']
   },
@@ -224,7 +224,7 @@ export const PORTFOLIO_PROJECTS: PortfolioItem[] = [
     id: 'p-5',
     title: 'SaaS Inbound Marketing Engine',
     category: 'Marketing Campaigns',
-    imageUrl: 'https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&q=80&w=600&h=400',
+    imageUrl: 'https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&q=80&w=600&h=400',
     description: 'Integrated Google Search PPC, Retargeting Funnels, and personalized email outreach sequences.',
     tags: ['Google Ads', 'Funnel Design', 'PPC']
   },
@@ -232,7 +232,7 @@ export const PORTFOLIO_PROJECTS: PortfolioItem[] = [
     id: 'p-6',
     title: 'FinTech Growth Narrative writing',
     category: 'Content Writing',
-    imageUrl: 'https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&q=80&w=600&h=400',
+    imageUrl: 'https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&fit=crop&q=80&w=600&h=400',
     description: 'SEO blog entries and long-tail landing page copy focused on digital conversion ratios.',
     tags: ['Copywriting', 'SEO Research', 'Blogs']
   },
@@ -240,7 +240,7 @@ export const PORTFOLIO_PROJECTS: PortfolioItem[] = [
     id: 'p-7',
     title: 'Modern Architecture Portal',
     category: 'Websites',
-    imageUrl: 'https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&q=80&w=600&h=400',
+    imageUrl: 'https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&q=80&w=600&h=400',
     description: 'A smooth, ultra-minimal showcase page with transition animations for an upscale architectural firm.',
     tags: ['UX Design', 'Smooth Scroll', 'React']
   },
@@ -248,7 +248,7 @@ export const PORTFOLIO_PROJECTS: PortfolioItem[] = [
     id: 'p-8',
     title: 'Cyber Security Promo Spot',
     category: 'AI Videos',
-    imageUrl: 'https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&q=80&w=600&h=400',
+    imageUrl: 'https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=600&h=400',
     description: 'Cinematic promotional launch reel created strictly through generative text-to-video tools.',
     tags: ['AI Imagery', '3D Graphics', 'Premiere Pro']
   }
