@@ -5,8 +5,9 @@
 
 import React from 'react';
 import { motion } from 'motion/react';
-import { ExternalLink, MessageCircle, ArrowUpRight } from 'lucide-react';
-import heroImg from '../assets/images/hero_marketing_team_1782144063718.jpg';
+import { MessageCircle } from 'lucide-react';
+
+const heroImg = 'https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&q=80&w=1400&h=1000';
 
 export default function Hero() {
   return (
@@ -53,9 +54,8 @@ export default function Hero() {
               We help businesses grow through professional websites, AI-generated videos, branding, and strategies that deliver results. Boost your conversions in 2026 with our expert team.
             </p>
 
-            {/* CTAs */}
-            <div className="flex flex-col sm:flex-row items-center gap-4 mt-4">
-              {/* WhatsApp consultation */}
+            {/* CTA */}
+            <div className="mt-4">
               <a
                 href="https://wa.me/923458903225?text=Hello%20ADMA%2C%20I'd%20love%20to%20schedule%20a%20free%20consultation%20with%20your%20team%20about%20my%20business%20campaign."
                 target="_blank"
@@ -64,17 +64,6 @@ export default function Hero() {
               >
                 <MessageCircle className="w-5 h-5 fill-current" />
                 <span>Book via WhatsApp</span>
-              </a>
-
-              {/* View Portfolio */}
-              <a
-                href="https://portfolio-pro-liart-two.vercel.app/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="w-full sm:w-auto inline-flex items-center justify-center gap-2.5 px-8 py-4 bg-white/80 hover:bg-white dark:bg-slate-900/80 dark:hover:bg-slate-900 border border-slate-200 dark:border-slate-800 text-indigo-600 dark:text-indigo-400 font-sans font-bold text-base rounded-full shadow-md scale-100 hover:scale-[1.02] active:scale-[0.98] transition-all"
-              >
-                <span>View Portfolio</span>
-                <ArrowUpRight className="w-4 h-4 text-indigo-500 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform" />
               </a>
             </div>
 

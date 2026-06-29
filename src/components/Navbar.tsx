@@ -29,7 +29,6 @@ export default function Navbar({ darkMode, setDarkMode }: NavbarProps) {
     { name: 'Services', href: '#services' },
     { name: 'Why Us', href: '#why-us' },
     { name: 'Process', href: '#process' },
-    { name: 'Team', href: '#team' },
     { name: 'Portfolio', href: '#portfolio' },
     { name: 'Testimonials', href: '#testimonials' },
     { name: 'FAQ', href: '#faq' },
